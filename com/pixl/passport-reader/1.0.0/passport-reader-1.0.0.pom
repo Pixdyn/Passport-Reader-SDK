@@ -129,18 +129,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.opencv</groupId>
-      <artifactId>opencv</artifactId>
-      <version>4.12.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cz.adaptech.tesseract4android</groupId>
-      <artifactId>tesseract4android-openmp</artifactId>
-      <version>4.9.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.10.1</version>
@@ -150,18 +138,6 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-mlkit-text-recognition</artifactId>
       <version>19.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.ai.edge.litert</groupId>
-      <artifactId>litert</artifactId>
-      <version>1.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.ai.edge.litert</groupId>
-      <artifactId>litert-support</artifactId>
-      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -205,6 +181,30 @@
       <artifactId>kotlin-stdlib</artifactId>
       <version>2.0.21</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.opencv</groupId>
+      <artifactId>opencv</artifactId>
+      <version>4.12.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>cz.adaptech.tesseract4android</groupId>
+      <artifactId>tesseract4android-openmp</artifactId>
+      <version>4.9.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.ai.edge.litert</groupId>
+      <artifactId>litert</artifactId>
+      <version>1.0.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.ai.edge.litert</groupId>
+      <artifactId>litert-support</artifactId>
+      <version>1.0.1</version>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>

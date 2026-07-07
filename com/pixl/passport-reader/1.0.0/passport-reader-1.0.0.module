@@ -157,20 +157,6 @@
           }
         },
         {
-          "group": "org.opencv",
-          "module": "opencv",
-          "version": {
-            "requires": "4.12.0"
-          }
-        },
-        {
-          "group": "cz.adaptech.tesseract4android",
-          "module": "tesseract4android-openmp",
-          "version": {
-            "requires": "4.9.0"
-          }
-        },
-        {
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
@@ -182,20 +168,6 @@
           "module": "play-services-mlkit-text-recognition",
           "version": {
             "requires": "19.0.1"
-          }
-        },
-        {
-          "group": "com.google.ai.edge.litert",
-          "module": "litert",
-          "version": {
-            "requires": "1.0.1"
-          }
-        },
-        {
-          "group": "com.google.ai.edge.litert",
-          "module": "litert-support",
-          "version": {
-            "requires": "1.0.1"
           }
         },
         {
@@ -276,6 +248,34 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
+        {
+          "group": "org.opencv",
+          "module": "opencv",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "cz.adaptech.tesseract4android",
+          "module": "tesseract4android-openmp",
+          "version": {
+            "requires": "4.9.0"
+          }
+        },
+        {
+          "group": "com.google.ai.edge.litert",
+          "module": "litert",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "com.google.ai.edge.litert",
+          "module": "litert-support",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
@@ -410,20 +410,6 @@
           }
         },
         {
-          "group": "org.opencv",
-          "module": "opencv",
-          "version": {
-            "requires": "4.12.0"
-          }
-        },
-        {
-          "group": "cz.adaptech.tesseract4android",
-          "module": "tesseract4android-openmp",
-          "version": {
-            "requires": "4.9.0"
-          }
-        },
-        {
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
@@ -435,20 +421,6 @@
           "module": "play-services-mlkit-text-recognition",
           "version": {
             "requires": "19.0.1"
-          }
-        },
-        {
-          "group": "com.google.ai.edge.litert",
-          "module": "litert",
-          "version": {
-            "requires": "1.0.1"
-          }
-        },
-        {
-          "group": "com.google.ai.edge.litert",
-          "module": "litert-support",
-          "version": {
-            "requires": "1.0.1"
           }
         },
         {
