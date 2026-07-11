@@ -4,14 +4,9 @@ import PackageDescription
 
 let package = Package(
     name: "PixlPassportReader",
-    platforms: [
-        .iOS(.v15)
-    ],
+    platforms: [.iOS(.v15)],
     products: [
-        .library(
-            name: "PixlPassportReader",
-            targets: ["PixlPassportReader"]
-        )
+        .library(name: "PixlPassportReader", targets: ["PixlPassportReader"])
     ],
     targets: [
         .binaryTarget(
