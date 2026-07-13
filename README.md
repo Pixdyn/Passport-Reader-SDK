@@ -22,6 +22,14 @@ The SDK leverages advanced OCR, NFC passport reading, MRZ recognition, and AI-po
 
 ---
 
+## 🔑 Get Your Free API Key
+
+Start your free trial and get an API key to begin integrating PIXL Passport Reader:
+
+👉 [https://accounts.pixl.ai/register?productKey=PSDK001](https://accounts.pixl.ai/register?productKey=PSDK001)
+
+---
+
 ## 📦 Installation
 
 ### 1. Add the repositories
