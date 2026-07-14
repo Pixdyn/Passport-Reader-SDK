@@ -1,8 +1,8 @@
 # PIXL Passport Reader SDK
 
-**AI-driven passport scanning and identity verification — fast, secure, and fully offline.**
+**AI-driven passport scanning and identity verification - fast, secure, and fully offline.**
 
-PIXL Passport Reader is a powerful AI-driven passport scanning and identity verification SDK designed for fast, secure, and fully offline document processing. It enables seamless scanning, reading, and verification of passports, visas, and national ID cards directly on-device — with no data ever leaving the user's phone.
+PIXL Passport Reader is a powerful AI-driven passport scanning and identity verification SDK designed for fast, secure, and **fully offline document processing**. It enables seamless scanning, reading, and verification of passports, visas, and national ID cards directly on-device with no data ever leaving the user's phone.
 
 Built with a **privacy-first approach**, PIXL Passport Reader performs **100% on-device processing**, ensuring that no personal data, passport information, or document images are uploaded to the cloud. This makes it an ideal solution for security-sensitive environments, including eKYC, banking, fintech, travel, immigration, hospitality, and government applications.
 
@@ -161,4 +161,4 @@ For integration help, issues, or feature requests, please open an issue in this 
 ## 📞 Contact Info
 
 - ✉️ Email: [connect@pixl.ai](mailto:connect@pixl.ai)
-- 📱 Phone: +91 7994431750
+- 📱 Phone: +91 7994433594
