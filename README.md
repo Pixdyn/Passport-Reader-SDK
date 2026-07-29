@@ -53,7 +53,7 @@ In your module-level **`build.gradle`**:
 
 ```gradle
 dependencies {
-    implementation("com.pixl:passport-reader:1.0.3")
+    implementation("com.pixl:passport-reader:1.0.6")
 }
 ```
 
