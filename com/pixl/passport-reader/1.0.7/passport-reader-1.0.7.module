@@ -3,7 +3,7 @@
   "component": {
     "group": "com.pixl",
     "module": "passport-reader",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -118,7 +118,7 @@
           "group": "org.jmrtd",
           "module": "jmrtd",
           "version": {
-            "requires": "0.7.18"
+            "requires": "0.8.1"
           }
         },
         {
@@ -257,13 +257,13 @@
       ],
       "files": [
         {
-          "name": "passport-reader-1.0.6.aar",
-          "url": "passport-reader-1.0.6.aar",
-          "size": 13637494,
-          "sha512": "263743a191f913ea82fe17809c8aea67b16a518438d3a74c013b6181431014d56c9c432efb2333fef3cfb08c0136202d892d188255a6f50067da1f052261f298",
-          "sha256": "fb106fe05e10c3c30cb7d866aaf3096072d3b7412559328c8dd31cff8b2d4c0f",
-          "sha1": "751f33d67364675d0ef4339000c6f55f2201ced0",
-          "md5": "ecd0ec31563e8cfcfde06c839a22c0f1"
+          "name": "passport-reader-1.0.7.aar",
+          "url": "passport-reader-1.0.7.aar",
+          "size": 13639015,
+          "sha512": "11e46e720b2d2b948bba9e490b8477ebe653bc4a83d18baff8a462d0572802ff1d353e1022412f821bdd0bf2031e04e66d3c0e388b76d904feb0fbc3a6aa5d31",
+          "sha256": "fe4012c9b272cedb06ce78d3d9524bccebaf47bd70c3c601a2c1639d42f0df70",
+          "sha1": "58dc7fe1ffc9b07a3cc45a2e05659d2fe18aa1b7",
+          "md5": "4f5d56ba655ff773ee9a456beae08f89"
         }
       ]
     },
@@ -371,7 +371,7 @@
           "group": "org.jmrtd",
           "module": "jmrtd",
           "version": {
-            "requires": "0.7.18"
+            "requires": "0.8.1"
           }
         },
         {
@@ -510,13 +510,13 @@
       ],
       "files": [
         {
-          "name": "passport-reader-1.0.6.aar",
-          "url": "passport-reader-1.0.6.aar",
-          "size": 13637494,
-          "sha512": "263743a191f913ea82fe17809c8aea67b16a518438d3a74c013b6181431014d56c9c432efb2333fef3cfb08c0136202d892d188255a6f50067da1f052261f298",
-          "sha256": "fb106fe05e10c3c30cb7d866aaf3096072d3b7412559328c8dd31cff8b2d4c0f",
-          "sha1": "751f33d67364675d0ef4339000c6f55f2201ced0",
-          "md5": "ecd0ec31563e8cfcfde06c839a22c0f1"
+          "name": "passport-reader-1.0.7.aar",
+          "url": "passport-reader-1.0.7.aar",
+          "size": 13639015,
+          "sha512": "11e46e720b2d2b948bba9e490b8477ebe653bc4a83d18baff8a462d0572802ff1d353e1022412f821bdd0bf2031e04e66d3c0e388b76d904feb0fbc3a6aa5d31",
+          "sha256": "fe4012c9b272cedb06ce78d3d9524bccebaf47bd70c3c601a2c1639d42f0df70",
+          "sha1": "58dc7fe1ffc9b07a3cc45a2e05659d2fe18aa1b7",
+          "md5": "4f5d56ba655ff773ee9a456beae08f89"
         }
       ]
     },
@@ -533,13 +533,13 @@
       },
       "files": [
         {
-          "name": "passport-reader-1.0.6-sources.jar",
-          "url": "passport-reader-1.0.6-sources.jar",
-          "size": 348995,
-          "sha512": "1bac147fda767034713565c379f935e9a45213751c84cf0140c7f56187447fd9711a5b6bfc5b05ac822d2d3b3be05b881d9e20163232a51231e983221e0d3d7d",
-          "sha256": "c7307cc2974abe5d8e842560e541cf217c941a34c06af988225ddf3904ae104a",
-          "sha1": "23c0f8be3b8c6eeb0d23778d1d270ca2138f7888",
-          "md5": "eeffe649ad4a2600aca70b87b315fcde"
+          "name": "passport-reader-1.0.7-sources.jar",
+          "url": "passport-reader-1.0.7-sources.jar",
+          "size": 349187,
+          "sha512": "8f5757c3fb998774f5679130605c76638b8f79a9fa2e8776405baa6444b200f72ca5900eaec46c679c24288453e333703459f1f5a8443a693abecf7280d507e4",
+          "sha256": "d343b1811df3ce474c4d8b5df1b84e133445e8ba3b848c089e6d8e89a44d41c4",
+          "sha1": "51b2539565319d5e152c08414200fa50e28cea76",
+          "md5": "0f27a51a2b9d528aeb4bdef431255d0e"
         }
       ]
     }

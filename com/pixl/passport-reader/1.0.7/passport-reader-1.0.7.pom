@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pixl</groupId>
   <artifactId>passport-reader</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <packaging>aar</packaging>
   <name>Pixl Passport Reader SDK</name>
   <description>Passport Reader SDK for Android</description>
@@ -95,7 +95,7 @@
     <dependency>
       <groupId>org.jmrtd</groupId>
       <artifactId>jmrtd</artifactId>
-      <version>0.7.18</version>
+      <version>0.8.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
