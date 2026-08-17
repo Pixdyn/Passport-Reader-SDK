@@ -45,5 +45,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("com.pixl:passport-reader:1.0.3")
+    implementation("com.pixl:passport-reader:1.0.8")
 }
