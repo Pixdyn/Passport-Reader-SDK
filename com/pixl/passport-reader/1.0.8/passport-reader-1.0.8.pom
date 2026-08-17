@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pixl</groupId>
   <artifactId>passport-reader</artifactId>
-  <version>1.0.7</version>
+  <version>1.0.8</version>
   <packaging>aar</packaging>
   <name>Pixl Passport Reader SDK</name>
   <description>Passport Reader SDK for Android</description>
