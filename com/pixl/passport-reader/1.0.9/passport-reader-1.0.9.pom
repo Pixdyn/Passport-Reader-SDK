@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pixl</groupId>
   <artifactId>passport-reader</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <packaging>aar</packaging>
   <name>Pixl Passport Reader SDK</name>
   <description>Passport Reader SDK for Android</description>
@@ -179,25 +179,25 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
-      <version>8.7.2</version>
+      <version>8.9.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>8.7.2</version>
+      <version>8.9.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>8.7.2</version>
+      <version>8.9.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-ktx</artifactId>
-      <version>8.7.2</version>
+      <version>8.9.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

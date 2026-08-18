@@ -3,14 +3,14 @@
   "component": {
     "group": "com.pixl",
     "module": "passport-reader",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "8.11.1"
     }
   },
   "variants": [
@@ -216,35 +216,35 @@
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
@@ -257,13 +257,13 @@
       ],
       "files": [
         {
-          "name": "passport-reader-1.0.8.aar",
-          "url": "passport-reader-1.0.8.aar",
-          "size": 13639077,
-          "sha512": "36b11f5348d76dae880bf1c57861867d26c26f848cb2d2fe5f1a04127f4708c4a54435f1b0a7e2ce5ce835a58af3cfd672e6c81fd0f5d3b33463a4892795e087",
-          "sha256": "ee380361b48743e2af24e36ec2684338dd3364150870e00ac09c50bf9c80903a",
-          "sha1": "91caa474001237dd3f59dd3e591a61c24ee11faf",
-          "md5": "2e5fbf373e38e1e89cf523e5e96239de"
+          "name": "passport-reader-1.0.9.aar",
+          "url": "passport-reader-1.0.9.aar",
+          "size": 13631394,
+          "sha512": "342c4fd157c6561bb3d9d3f41695a634358acad15e96b9108409ca8f47b0cbbb077508462924c6919be9270fa73c601319a677d4c5438f17b15b91d9b168ff4c",
+          "sha256": "ddb7b40794ce93dc61de5b20389a214f14167b3de65663ec2e13e4f1c82659bc",
+          "sha1": "ece14839c095fd82973649306d22817ee64f33eb",
+          "md5": "9bba140ba46213fb162a899504b4eb30"
         }
       ]
     },
@@ -469,35 +469,35 @@
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "8.7.2"
+            "requires": "8.9.2"
           }
         },
         {
@@ -510,13 +510,13 @@
       ],
       "files": [
         {
-          "name": "passport-reader-1.0.8.aar",
-          "url": "passport-reader-1.0.8.aar",
-          "size": 13639077,
-          "sha512": "36b11f5348d76dae880bf1c57861867d26c26f848cb2d2fe5f1a04127f4708c4a54435f1b0a7e2ce5ce835a58af3cfd672e6c81fd0f5d3b33463a4892795e087",
-          "sha256": "ee380361b48743e2af24e36ec2684338dd3364150870e00ac09c50bf9c80903a",
-          "sha1": "91caa474001237dd3f59dd3e591a61c24ee11faf",
-          "md5": "2e5fbf373e38e1e89cf523e5e96239de"
+          "name": "passport-reader-1.0.9.aar",
+          "url": "passport-reader-1.0.9.aar",
+          "size": 13631394,
+          "sha512": "342c4fd157c6561bb3d9d3f41695a634358acad15e96b9108409ca8f47b0cbbb077508462924c6919be9270fa73c601319a677d4c5438f17b15b91d9b168ff4c",
+          "sha256": "ddb7b40794ce93dc61de5b20389a214f14167b3de65663ec2e13e4f1c82659bc",
+          "sha1": "ece14839c095fd82973649306d22817ee64f33eb",
+          "md5": "9bba140ba46213fb162a899504b4eb30"
         }
       ]
     },
@@ -533,13 +533,13 @@
       },
       "files": [
         {
-          "name": "passport-reader-1.0.8-sources.jar",
-          "url": "passport-reader-1.0.8-sources.jar",
-          "size": 349723,
-          "sha512": "94c229295c32f1ea9de40d1cd3cff721db95e6565e033a9c9ac7d552835d7596aba249794942aeea64eea523e89e8b2ed15c87eba5c963434cdc6114c5424acf",
-          "sha256": "15969ce8fa5b7202f2d0c9b75d8f0a46ee6ffb631a4ac59f08830255a34ec9c0",
-          "sha1": "dbb0195c7f212be9b5c2219f821c8a3696230a3b",
-          "md5": "a7233c71a7be34a1f06eec3d60a6dfbc"
+          "name": "passport-reader-1.0.9-sources.jar",
+          "url": "passport-reader-1.0.9-sources.jar",
+          "size": 348567,
+          "sha512": "8ba864f04fa3a1cadf5f8c76d20b79183b020542cdeaf9644c50cdb6327910d9831f0e822ee64eb1e5bf3548b6664ab21e14f5de9e2109b4e359c6a6e21b5237",
+          "sha256": "4d881a46847aa7b6f99e0d953fa61eda19cc5aff84c59ea374713cddc542d891",
+          "sha1": "0a152149c9604a50e18c9c908e7d08972fd85766",
+          "md5": "f5b70d84ca7855246c54393ab20276f6"
         }
       ]
     }
